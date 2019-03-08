@@ -4,6 +4,7 @@
   "description": "sample node http server for practice",
   "main": "index.js",
   "scripts": {
+    "start":"node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -12,18 +13,20 @@
   },
   "keywords": [
     "node",
-    "node",
     "http",
     "server",
-    "http",
-    "server",
-    "http",
-    "server"
+    "node http server",
+    "http server",
+    "node server"
   ],
   "author": "Asad Chouhan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/asadraza007/node-http-server/issues"
   },
-  "homepage": "https://github.com/asadraza007/node-http-server#readme"
+  "homepage": "https://github.com/asadraza007/node-http-server#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0"
+  }
 }
