@@ -1,0 +1,29 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "sample node http server for practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadraza007/node-http-server.git"
+  },
+  "keywords": [
+    "node",
+    "node",
+    "http",
+    "server",
+    "http",
+    "server",
+    "http",
+    "server"
+  ],
+  "author": "Asad Chouhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asadraza007/node-http-server/issues"
+  },
+  "homepage": "https://github.com/asadraza007/node-http-server#readme"
+}
